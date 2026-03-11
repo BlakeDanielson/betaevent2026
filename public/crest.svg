@@ -1,0 +1,21 @@
+<!--
+  PLACEHOLDER FRATERNITY CREST
+  Replace this file with your actual fraternity crest/logo.
+  Recommended: SVG or PNG at 200×200px minimum, transparent background.
+  File must be named "crest.svg" (or update the <Image src> in Navbar.tsx and Footer.tsx).
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Shield shape -->
+  <path d="M50 5 L90 20 L90 55 Q90 80 50 95 Q10 80 10 55 L10 20 Z"
+        fill="#1E3A5F" stroke="#C9A84C" stroke-width="2.5"/>
+  <!-- Inner shield border -->
+  <path d="M50 14 L82 27 L82 54 Q82 74 50 87 Q18 74 18 54 L18 27 Z"
+        fill="none" stroke="#C9A84C" stroke-width="1.5" opacity="0.6"/>
+  <!-- Greek-style letter placeholder -->
+  <text x="50" y="60" font-family="Georgia, serif" font-size="36"
+        fill="#C9A84C" text-anchor="middle" dominant-baseline="middle"
+        font-weight="bold">ΑΒ</text>
+  <!-- Stars / ornaments -->
+  <circle cx="30" cy="30" r="2.5" fill="#C9A84C" opacity="0.7"/>
+  <circle cx="70" cy="30" r="2.5" fill="#C9A84C" opacity="0.7"/>
+</svg>
