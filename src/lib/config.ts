@@ -5,8 +5,8 @@
 
 export const EVENT = {
   // ── Basic Details ──────────────────────────────────────────────────────────
-  name:        'Alpha Zeta Alumni Gala & Reunion 2025',
-  tagline:     'An evening celebrating Men of Principle — past, present, and future.',
+  name:        'Alpha Zeta Scholarship Gala and Reunion 2026',
+  tagline:     '88 Years of Brotherhood.',
   date:        'Saturday, October 18, 2025',
   time:        '6:00 PM – 11:00 PM',
   doorsOpen:   '5:30 PM',
@@ -21,7 +21,7 @@ export const EVENT = {
   agenda: [
     { time: '5:30 PM', item: 'Doors open — cocktail hour & silent auction' },
     { time: '7:00 PM', item: 'Dinner service begins' },
-    { time: '8:00 PM', item: 'Welcome remarks & awards ceremony' },
+    { time: '8:00 PM', item: 'Welcome remarks & scholarship recipient testimonials' },
     { time: '8:45 PM', item: 'Live band & dancing' },
     { time: '10:30 PM', item: 'Last call & farewell' },
   ],
@@ -80,12 +80,12 @@ export const EVENT = {
   chapter improvements, and leadership development programs aligned with Beta Theta Pi's
   mission to develop Men of Principle. Every dollar makes a difference — thank you for
   investing in the next generation of Betas at DU.`,
-  donationGoalInCents: 2500000,
+  donationGoalInCents: 11000000,
   donationRaisedInCents: 1425000,
   donationPresets: [2500, 5000, 10000, 25000],
 
   // ── Contact & Social ───────────────────────────────────────────────────────
-  contactEmail:  'alumni@dubetathetapi.org',
+  contactEmail:  'MatthewSRumsey@gmail.com',
   contactName:   'Alpha Zeta Alumni Events Committee',
   social: {
     instagram: 'https://instagram.com/betathetapi',
