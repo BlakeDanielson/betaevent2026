@@ -100,7 +100,7 @@ export default function Tickets() {
                     <span className="text-3xl font-bold text-beta-blue font-serif">
                       {formatCents(tier.priceInCents)}
                     </span>
-                    <span className="text-gray-400 text-sm ml-1">/ person</span>
+                    <span className="text-gray-400 text-sm ml-1">/ {tier.unit ?? 'person'}</span>
                   </div>
 
                   {/* Perks */}
