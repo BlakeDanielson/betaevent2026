@@ -7,11 +7,11 @@ export const EVENT = {
   // ── Basic Details ──────────────────────────────────────────────────────────
   name:        'Alpha Zeta Scholarship Gala and Reunion 2026',
   tagline:     '88 Years of Brotherhood.',
-  date:        'Saturday, October 18, 2025',
-  time:        '6:00 PM – 11:00 PM',
-  doorsOpen:   '5:30 PM',
+  date:        'Saturday, May 30, 2026',
+  time:        '5:00 PM – 10:00 PM',
+  doorsOpen:   '5:00 PM',
   location:    'The Grand Ballroom at The Marquette Hotel',
-  address:     '710 Marquette Ave, Denver, CO 80210',
+  address:     '2280 S Race St, Denver, CO 80210',
   description: `Join fellow Betas and distinguished brothers of the Alpha Zeta chapter for an
   unforgettable evening of cocktails, dinner, live music, and remarks from chapter leadership.
   Whether you graduated last spring or decades ago, this is your night to reconnect, reflect,
@@ -19,11 +19,10 @@ export const EVENT = {
 
   // ── Schedule / Agenda ──────────────────────────────────────────────────────
   agenda: [
-    { time: '5:30 PM', item: 'Doors open — cocktail hour & silent auction' },
-    { time: '7:00 PM', item: 'Dinner service begins' },
-    { time: '8:00 PM', item: 'Welcome remarks & scholarship recipient testimonials' },
-    { time: '8:45 PM', item: 'Live band & dancing' },
-    { time: '10:30 PM', item: 'Last call & farewell' },
+    { time: '5:00 PM', item: 'Welcome & happy hour — connect with fellow alumni and brothers' },
+    { time: '6:30 PM', item: 'Transition to dinner — opening remarks and welcome' },
+    { time: '7:00 PM', item: 'Dinner & program — scholarship recipient speakers, fundraising appeal, and recognition of supporters' },
+    { time: '9:00 PM', item: 'Live band & celebration — music, dancing, and continued connection' },
   ],
 
   // ── Ticket Tiers ──────────────────────────────────────────────────────────
