@@ -41,7 +41,7 @@ export const EVENT = {
     {
       id:           'vip',
       name:         'VIP Table',
-      priceInCents: 150000,
+      priceInCents: 120000,
       unit:         'table of 8',
       description:  'Reserved table for 8 with premium seating and a few extra touches.',
       perks: [
@@ -56,7 +56,7 @@ export const EVENT = {
     {
       id:           'patron',
       name:         'Legacy Table',
-      priceInCents: 300000,
+      priceInCents: 240000,
       unit:         'table of 8',
       description:  'Leave a lasting mark on the Alpha Zeta chapter.',
       perks: [
