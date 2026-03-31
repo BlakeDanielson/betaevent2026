@@ -8,21 +8,18 @@ export const EVENT = {
   name:        'Alpha Zeta Scholarship Gala and Reunion 2026',
   tagline:     '88 Years of Brotherhood.',
   date:        'Saturday, May 30, 2026',
-  time:        '5:00 PM – 10:00 PM',
+  time:        '5:00 PM to 10:00 PM',
   doorsOpen:   '5:00 PM',
   location:    'SIE International Relations Complex',
   address:     '2280 S Race St, Denver, CO 80210',
-  description: `Join fellow Betas and distinguished brothers of the Alpha Zeta chapter for an
-  unforgettable evening of cocktails, dinner, live music, and remarks from chapter leadership.
-  Whether you graduated last spring or decades ago, this is your night to reconnect, reflect,
-  and invest in the future of Beta Theta Pi at the University of Denver.`,
+  description: `Come spend an evening with your brothers. We'll share a meal, hear from scholarship recipients about the difference your support has made, and close out the night with live music and good company. Whether you graduated last year or decades ago, this is a night to reconnect and invest in the future of Beta Theta Pi at DU.`,
 
   // ── Schedule / Agenda ──────────────────────────────────────────────────────
   agenda: [
-    { time: '5:00 PM', item: 'Welcome & happy hour — connect with fellow alumni and brothers' },
-    { time: '6:30 PM', item: 'Transition to dinner — opening remarks and welcome' },
-    { time: '7:00 PM', item: 'Dinner & program — scholarship recipient speakers, fundraising appeal, and recognition of supporters' },
-    { time: '9:00 PM', item: 'Live band & celebration — music, dancing, and continued connection' },
+    { time: '5:00 PM', item: 'Welcome and happy hour. Arrive, check in, and catch up with fellow alumni and brothers.' },
+    { time: '6:30 PM', item: 'Dinner begins. Opening remarks and a warm welcome to get the evening started.' },
+    { time: '7:00 PM', item: 'Program. Scholarship recipients share their stories, followed by a giving moment and recognition of our supporters.' },
+    { time: '9:00 PM', item: 'Live band and celebration. Close out the night with music, dancing, and good conversation.' },
   ],
 
   // ── Ticket Tiers ──────────────────────────────────────────────────────────
@@ -75,10 +72,7 @@ export const EVENT = {
 
   // ── Donations ──────────────────────────────────────────────────────────────
   donationTitle:   'Support the Alpha Zeta Chapter Fund',
-  donationBlurb: `Your generosity directly funds scholarships for active brothers,
-  chapter improvements, and leadership development programs aligned with Beta Theta Pi's
-  mission to develop Men of Principle. Every dollar makes a difference — thank you for
-  investing in the next generation of Betas at DU.`,
+  donationBlurb: `Your gift goes directly toward scholarships for active brothers and helps keep the chapter strong for the next generation. Every dollar makes a real difference, and we're grateful for your support of Beta Theta Pi at DU.`,
   donationGoalInCents: 11000000,
   donationRaisedInCents: 1425000,
   donationPresets: [2500, 5000, 10000, 25000],
@@ -95,7 +89,7 @@ export const EVENT = {
 
   // ── Organization ──────────────────────────────────────────────────────────
   orgName:     'Alpha Zeta Chapter of Beta Theta Pi',
-  orgFullName: 'Alpha Zeta Chapter of Beta Theta Pi — University of Denver',
+  orgFullName: 'Alpha Zeta Chapter of Beta Theta Pi at the University of Denver',
   foundedYear: 1889,
 };
 
