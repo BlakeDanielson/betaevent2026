@@ -185,7 +185,7 @@ export default function Donate() {
         {/* Stat pills */}
         <div className="mt-12 grid grid-cols-1 sm:grid-cols-3 gap-6 text-center">
           {[
-            { value: '60+', label: 'Years of brotherhood' },
+            { value: '137', label: 'Years of brotherhood' },
             { value: '$50k+', label: 'In scholarships awarded' },
             { value: '200+', label: 'Active alumni donors' },
           ].map((stat) => (

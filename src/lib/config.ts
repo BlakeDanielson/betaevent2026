@@ -6,7 +6,7 @@
 export const EVENT = {
   // ── Basic Details ──────────────────────────────────────────────────────────
   name:        'Alpha Zeta Scholarship Gala and Reunion 2026',
-  tagline:     '88 Years of Brotherhood.',
+  tagline:     '137 Years of Brotherhood.',
   date:        'Saturday, May 30, 2026',
   time:        '5:00 PM to 10:00 PM',
   doorsOpen:   '5:00 PM',
