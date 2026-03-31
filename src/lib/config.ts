@@ -10,7 +10,7 @@ export const EVENT = {
   date:        'Saturday, May 30, 2026',
   time:        '5:00 PM – 10:00 PM',
   doorsOpen:   '5:00 PM',
-  location:    'The Grand Ballroom at The Marquette Hotel',
+  location:    'SIE International Relations Complex',
   address:     '2280 S Race St, Denver, CO 80210',
   description: `Join fellow Betas and distinguished brothers of the Alpha Zeta chapter for an
   unforgettable evening of cocktails, dinner, live music, and remarks from chapter leadership.
