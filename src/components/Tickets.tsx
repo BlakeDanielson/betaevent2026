@@ -71,7 +71,9 @@ export default function Tickets() {
               <div
                 key={tier.id}
                 className={`card flex flex-col transition-transform duration-200 hover:-translate-y-1 hover:shadow-xl ${
-                  isVip ? 'ring-2 ring-beta-pink relative' : ''
+                  tier.badge ? 'relative' : ''
+                } ${
+                  isVip ? 'ring-2 ring-beta-pink' : ''
                 }`}
               >
                 {/* Badge */}
