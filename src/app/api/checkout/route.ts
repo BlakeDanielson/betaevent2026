@@ -50,6 +50,8 @@ export async function POST(req: NextRequest) {
       // Collect billing details so we have the buyer's name & email
       billing_address_collection: 'auto',
       customer_email: undefined, // Stripe will collect it during checkout
+      // Require a phone number at checkout so we can reach the buyer
+      phone_number_collection: { enabled: true },
       metadata: {
         type:     'ticket',
         ticketId: tier.id,
