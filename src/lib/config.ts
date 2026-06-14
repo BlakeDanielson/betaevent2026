@@ -29,10 +29,10 @@ export const EVENT = {
       name:        'General Admission',
       priceInCents: 7500,
       unit:        'person',
-      description: 'Includes dinner, open bar, and access to all event activities.',
+      description: 'Includes dinner, bar, and access to all event activities.',
       perks: [
         'Plated three-course dinner',
-        'Open bar (beer, wine & spirits)',
+        'Bar (beer, wine & spirits)',
         'Access to live music & dancing',
       ],
       available: true,
@@ -46,7 +46,7 @@ export const EVENT = {
       description:  'Reserved table for 8 with premium seating and a few extra touches.',
       perks: [
         '8 seats with reserved front-section seating',
-        'Plated three-course dinner and open bar',
+        'Plated three-course dinner and bar',
         'Priority check-in for your group',
         'Commemorative keepsake gift for each guest',
       ],
@@ -61,7 +61,7 @@ export const EVENT = {
       description:  'Leave a lasting mark on the Alpha Zeta chapter.',
       perks: [
         '8 seats with premium reserved seating',
-        'Plated three-course dinner and open bar',
+        'Plated three-course dinner and bar',
         'Your name on the Alpha Zeta Scholarship donor wall',
         'Named recognition in the event program and during remarks',
         'Personal thank-you letter from scholarship recipients',
@@ -76,7 +76,7 @@ export const EVENT = {
   donationTitle:   'Support the Alpha Zeta Chapter Fund',
   donationBlurb: `Your gift goes directly toward scholarships for active brothers and helps keep the chapter strong for the next generation. Every dollar makes a real difference, and we're grateful for your support of Beta Theta Pi at DU.`,
   donationGoalInCents: 11000000,
-  donationRaisedInCents: 1425000,
+  donationRaisedInCents: 6500000,
   donationPresets: [2500, 5000, 10000, 25000],
 
   // ── Contact & Social ───────────────────────────────────────────────────────
