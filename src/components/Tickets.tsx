@@ -49,7 +49,7 @@ export default function Tickets() {
           <h2 className="section-heading">Tickets</h2>
           <span className="accent-divider" />
           <p className="text-gray-600 text-base max-w-xl mx-auto">
-            Select the ticket tier that suits you. All tiers include dinner and open bar.
+            Select the ticket tier that suits you. All tiers include dinner and bar.
             Limited availability — reserve early.
           </p>
         </div>
